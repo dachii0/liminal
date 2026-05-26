@@ -1,4 +1,4 @@
-# Liminal
+# liminal
 
 **Authorization analysis through behavioral observation.**
 
