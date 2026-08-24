@@ -44,6 +44,9 @@ Liminal includes a custom HTTPS interception proxy developed in Python.
 
 It supports dynamic certificate generation, TLS interception, HTTP/1.1, HTTP/2, and programmable request/response processing.
 
+Screenshots
+
+<p align="center"> <img src="assets/screen.png" width="1000" alt="liminal"> </p>
 
 ## Status
 
