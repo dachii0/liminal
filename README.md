@@ -4,6 +4,13 @@
   <strong>Adaptive Authorization & Access-Control Analysis</strong>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.4.4-ff69b4">
+  <img src="https://img.shields.io/badge/Linux-Supported-1793d1">
+  <img src="https://img.shields.io/badge/Source-Closed--Source-red">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+</p>
+
 Liminal is a closed-source security research platform designed to analyze authorization behavior in modern web applications.
 
 It observes application behavior across multiple identities and contexts to help identify inconsistencies in access-control boundaries, including horizontal and vertical privilege escalation, cross-identity access, stale sessions, context-dependent bypasses, and parameter manipulation.
