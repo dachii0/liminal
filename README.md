@@ -1,5 +1,8 @@
-# Liminal
+<p align="center">
+  <img src="assets/logo.svg" width="96" alt="Tool">
+</p>
 
+<h1 align="center">Liminal</h1>
 <p align="center">
   <strong>Identity-Aware Web Security Research Platform</strong>
 </p>
