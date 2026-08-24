@@ -1,7 +1,7 @@
 # Liminal
 
 <p align="center">
-  <strong>Adaptive Authorization & Access-Control Analysis</strong>
+  <strong>Identity-Aware Web Security Analysis</strong>
 </p>
 
 <p align="center">
