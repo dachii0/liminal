@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" width="96" alt="Tool">
+  <img src="assets/logo.png" width="96" alt="Tool">
 </p>
 
 <h1 align="center">Liminal</h1>
