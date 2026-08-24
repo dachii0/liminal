@@ -1,7 +1,7 @@
 # Liminal
 
 <p align="center">
-  <strong>Identity-Aware Web Security Analysis</strong>
+  <strong>Identity-Aware Web Security Research Platform</strong>
 </p>
 
 <p align="center">
