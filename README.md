@@ -27,8 +27,9 @@ It observes application behavior across multiple identities and contexts to help
 * HTTP/HTTPS interception
 * HTTP/1.1 and HTTP/2 support
 * Embedded Python editor and executor
-* Security-oriented Python APIs
-* Context-aware testing suggestions
+* Security testing and exploit libraries exposed through Python APIs
+* Context-aware testing payload suggestions
+* Attack lab environment
 * Request/response hooks
 * Header injection and payload manipulation
 * Endpoint filtering and blocking
