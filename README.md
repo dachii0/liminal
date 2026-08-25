@@ -16,7 +16,7 @@
 
 Liminal is a closed-source security research platform designed to analyze authorization behavior in modern web applications.
 
-it's a closed-source security research platform for web application analysis and testing. It combines traffic interception and manipulation, authorization analysis, multi-identity testing, programmable workflows, attack libraries, and contextual testing capabilities in a unified environment.
+It observes application behavior across multiple identities and contexts to help identify inconsistencies in access-control boundaries, including horizontal and vertical privilege escalation, cross-identity access, stale sessions, context-dependent bypasses, and parameter manipulation.
 
 ## Features
 
