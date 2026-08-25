@@ -49,6 +49,7 @@ It supports dynamic certificate generation, TLS interception, HTTP/1.1, HTTP/2, 
 Screenshots
 
 <p align="center"> <img src="assets/screen.png" width="1000" alt="liminal"> </p>
+<p align="center"> <img src="assets/screen_01.png" width="1000" alt="liminal"> </p>
 
 
 ## Responsible Use
