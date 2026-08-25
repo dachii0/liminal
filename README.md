@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.4.2-ff69b4">
+  <img src="https://img.shields.io/badge/Version-1.4.4-ff69b4">
   <img src="https://img.shields.io/badge/Platform-Linux-1793d1">
   <img src="https://img.shields.io/badge/License-Proprietary-red">
   <img src="https://img.shields.io/badge/Availability-Not%20Publicly%20Released-orange">
