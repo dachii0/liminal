@@ -18,6 +18,8 @@ Liminal is a closed-source security research platform designed to analyze author
 
 It observes application behavior across multiple identities and contexts to help identify inconsistencies in access-control boundaries, including horizontal and vertical privilege escalation, cross-identity access, stale sessions, context-dependent bypasses, and parameter manipulation.
 
+> **Availability:** Not publicly released · **Platform:** Linux · **License:** Proprietary
+
 ## Features
 
 * Multi-identity authorization analysis
