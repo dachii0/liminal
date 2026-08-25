@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Status-Active-success">
 </p>
 
-Liminal is a closed-source security research platform designed to analyze authorization behavior in modern web applications.
+Liminal is a closed-source security research platform for web application traffic analysis, interception, authorization testing, and programmable security research.
 
 It observes application behavior across multiple identities and contexts to help identify inconsistencies in access-control boundaries, including horizontal and vertical privilege escalation, cross-identity access, stale sessions, context-dependent bypasses, and parameter manipulation.
 
