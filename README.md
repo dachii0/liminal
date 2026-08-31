@@ -35,6 +35,13 @@ It observes application behavior across multiple identities and contexts to help
 * Request/response hooks
 * Header injection and payload manipulation
 * Endpoint filtering and blocking
+* Over 15 accessible proxy hooks
+* Programmable Proxy
+* Rich Terminal and Scripting Environment
+* Rich Buildin hooks
+* Fire and Forget attack engines
+* Automation
+* Rich I/O
 
 ## Integrated Research Environment
 
