@@ -37,9 +37,9 @@ It observes application behavior across multiple identities and contexts to help
 * Endpoint filtering and blocking
 * Over 15 accessible proxy hooks
 * Programmable Proxy
-* Rich Terminal and Scripting Environment
-* Rich Buildin hooks
-* Fire and Forget attack engines
+* Programmable terminal and scripting environment
+* Built-in security hooks
+* Fire-and-forget attack engines
 * Automation
 * Rich I/O
 
