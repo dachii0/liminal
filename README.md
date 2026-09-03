@@ -32,16 +32,14 @@ It observes application behavior across multiple identities and contexts to help
 * Security testing and exploit libraries exposed through Python APIs
 * Context-aware testing payload suggestions
 * Attack lab environment
-* Request/response hooks
 * Header injection and payload manipulation
 * Endpoint filtering and blocking
 * Over 15 accessible proxy hooks
-* Programmable Proxy
-* Programmable terminal and scripting environment
-* Built-in security hooks
-* Fire-and-forget attack engines
-* Automation
-* Rich I/O
+* Programmable terminal and scripting environment 
+* Built-in security hooks 
+* Fire-and-forget attack engines 
+* Automation 
+* Programmable HTTP I/O through user-defined engines and hooks
 
 ## Integrated Research Environment
 
